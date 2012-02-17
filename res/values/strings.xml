@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Locadz!</string>
+    <string name="app_name">Locadz</string>
+    <string name="below_layout_xml">Below AdUnitLayout from XML</string>
+</resources>
